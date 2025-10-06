@@ -1,2 +1,2 @@
 # TestingPlayground2
-
+Theres 3 different shaders I tried to make based on the tutorial slides since I couldn't make it to class. There is the lambert texture which is just a basic model with a texture and colour. Then there is the ambient model which uses spherical harmonics to change the lighting around the model (see the distinct difference in lighting between lambert and ambient). And then there is the specular model which adds a reflective lighting to the model, utilizing both previous shaders in one. 
